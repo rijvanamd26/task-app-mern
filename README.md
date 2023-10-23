@@ -4,7 +4,7 @@ Install all the Server side and client side dependencies which are in package.js
 <h1>To run the application</h1>
 <b>Backend : </b>
 In one terminal give this commands. It will run the server and connect the MongoDB database <br />
-<b>cd server</b><br />
+cd server<br />
 npm start <br />
 <b>Frontend: </b>
 In another terminal give this commands. It will start the react app <br />
