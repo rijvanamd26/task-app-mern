@@ -11,6 +11,8 @@ In another terminal give this commands. It will start the react app <br />
 cd client <br />
 npm start <br />
 <h1>Create and Modify .env file</h1>
+Create .env file in server directory <br />
+Add MONGO_URL and PORT in .env file <br />
 MONGO_URL="Give your database url" <br />
 PORT="Give port number" <br />
 
